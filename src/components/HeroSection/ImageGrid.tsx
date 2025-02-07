@@ -3,12 +3,12 @@ import styles from './ImageGrid.module.scss';
 
 export default function ImageGrid() {
   const images = [
-    'senechal1.jpg',
-    'senechal2.jpg',
-    'senechal3.jpg',
-    'senechal4.jpg',
-    'senechal5.jpg',
-    'senechal6.jpg',
+    'nleprince1.jpg',
+    'nleprince2.jpg',
+    'nleprince3.jpg',
+    'nleprince4.jpg',
+    'nleprince5.jpg',
+    'nleprince6.jpg',
   ];
 
   return (
@@ -17,7 +17,7 @@ export default function ImageGrid() {
         <div key={index} className={styles.imageWrapper}>
           <Image
             src={`/img/heroSection/${image}`}
-            alt={`Œuvre d'art de Monique Laville - Collection 2025 - Pièce ${index + 1}`}
+            alt={`Œuvre d'art de Nadine Le Prince - Collection 2025 - Pièce ${index + 1}`}
             fill
             sizes="(max-width: 768px) 100vw, 33vw"
             className={styles.image}
