@@ -3,7 +3,7 @@ import styles from './ImageGrid.module.scss';
 
 export default function ImageGrid() {
   const images = [
-    'nleprince1.jpg',
+    'nleprince8.jpg',
     'nleprince2.jpg',
     'nleprince3.jpg',
     'nleprince4.jpg',
