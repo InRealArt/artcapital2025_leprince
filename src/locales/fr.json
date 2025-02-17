@@ -74,9 +74,12 @@
     },
     "testimonials": {
       "title": "Témoignages",
-      "artist1": "“Avec InRealArt, je peux porter le Rêve au sommet de son art et transmettre mon héritage de manière intemporelle à travers ces toiles. C'est une opportunité unique de fusionner tradition et innovation, offrant une nouvelle dimension à mon travail.”", 
+      "artist1": "“À travers InRealArt, mes peintures nocturnes prennent vie, mêlant clair-obscur et lumières mystérieuses pour transporter le spectateur dans des mondes imaginaires.”", 
       "artist2": "“Grâce à InRealArt, je peux propulser ma vision artistique et le pop-art vers de nouveaux horizons et partager mon travail innovant avec le monde entier. C’est un privilège d’intégrer cette révolution, où chaque œuvre transcende le temps et trouve sa place dans l’avenir de l’art.“",
-      "ranking": "Class. Style contemporain"
+      "styleArtist1": "Class. Style figuratif",
+      "styleArtist2": "TOP 10 I-CAC",
+      "rankingArtist1": "Class. Style contemporain",
+      "rankingArtist2": "TOP 3 I-CAC"
     },
     "partners": {
       "title": "Ils nous font confiance"
