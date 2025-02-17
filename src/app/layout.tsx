@@ -25,7 +25,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "InRealArt",
-  description: "Artshow Paris 2025",
+  description: "Art Capital 2025 - Nadine Le Prince",
 };
 
 export default async function RootLayout({
