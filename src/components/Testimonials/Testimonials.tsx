@@ -26,7 +26,7 @@ const Testimonials = () => {
           width={150} height={150} className={styles.testimonialImage} />
         <div className={styles.wrapperText2}>
           <div className={styles.title2}>
-            <div className={styles.artist1}>Marc Pfelzer</div>
+            <div className={styles.artist1}>{parse(i18n[language].testimonials.artistName1)}</div>
           </div>
           <div className={styles.artistText1}>
               <span className={styles.artistText11}>
@@ -48,15 +48,13 @@ const Testimonials = () => {
           width={150} height={150} className={styles.testimonialImage}/>
         <div className={styles.wrapperText3}>
           <div className={styles.title2}>
-            <div className={styles.artist2}>Leloluce</div>
+            <div className={styles.artist2}>{parse(i18n[language].testimonials.artistName2)}</div>
           </div>
           <div 
             className={styles.artistText2}>
             <span>
               <span className={styles.artistText21}>
                 {parse(i18n[language].testimonials.artist2)}
-                <br />
-                <br />
               </span>
               <span className={styles.artistText22}> {parse(i18n[language].testimonials.styleArtist2)}</span>
               &nbsp;
